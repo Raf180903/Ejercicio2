@@ -1,3 +1,4 @@
+//Comentario añadido en GitHub por Raf180903.
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
